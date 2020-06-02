@@ -21,7 +21,7 @@ baseurl:                '/doodlog'
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 bGM's DoodLog
+title:                 'bGM's DoodLog'
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -32,7 +32,7 @@ description:           >
 # A shorter description for the sidebar.
 tagline:               >
 # [du:dəlɒɡ]
-[du:delag]
+"[du:delag]"
 ##  "Best Jekyll Theme by a Mile".
 ##  Open `_config.yml` to edit this text.
 
@@ -56,9 +56,9 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Doodlog
+  - title:             'Doodlog'
     url:               /intro/
-  - title:             bGM
+  - title:             'bGM'
     url:               /bgm/
 ##  - title:             Hydejack
 ##    url:               /hydejack/

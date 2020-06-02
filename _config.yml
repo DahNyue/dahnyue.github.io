@@ -32,8 +32,9 @@ description:           >
 # A shorter description for the sidebar.
 tagline:               >
 # [du:dəlɒɡ]
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+[du:delag]
+##  "Best Jekyll Theme by a Mile".
+##  Open `_config.yml` to edit this text.
 
 
 # A list of keywords for your blog
@@ -288,7 +289,6 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # theme: jekyll-theme-hydejack
-theme: jekyll-theme-hydejack
 ## remote_theme: qwtel/hydejack@gem
 remote_theme: qwtel/hydejack@gem
 

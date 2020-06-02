@@ -31,9 +31,10 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
+# [du:dəlɒɡ]
 ##  "Best Jekyll Theme by a Mile".
 ##  Open `_config.yml` to edit this text.
-[du:dəlɒɡ]
+
 
 # A list of keywords for your blog
 keywords:              []
@@ -45,8 +46,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                 <bGM> <Kim>
-  email:                <dahnyue@gmail.com>
+  name:                 bGM Kim
+  email:                dahnyue@gmail.com
 ##  name:                <firstname> <lastname>
 ##  email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:

@@ -19,17 +19,17 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Doodlog
+title:                 bGM's Doodlog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+##  "Best Jekyll Theme by a Mile".
+##  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
 tagline:               >
-  *[du:dlag]*
+  [du:dlag]
 ##  "Best Jekyll Theme by a Mile".
 ##  Open `_config.yml` to edit this text.
 
